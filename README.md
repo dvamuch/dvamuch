@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @dvamuch
-- 👀 I’m interested in back-end development and databases architecture.
+- 👋 Hi, I’m @dvamuch, a student and a begginer back-end developer 
+- 👀 I’m interested in back-end and databases architecture
 - 🌱 I’m currently learning node.js, php, phalcon and postgresql
 
 <!---

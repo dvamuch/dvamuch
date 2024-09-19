@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @dvamuch, a student and a begginer back-end developer 
-- 👀 I’m interested in back-end and databases architecture
-- 🌱 I’m currently learning node.js, php, phalcon and postgresql
+- 👋 Hi, I’m @dvamuch, currently on my master program at MISIS. Middle backend json-formatter
+- 👀 I’m interested in back-end and databases architecture, high-load system artitecture
+- 🌱 I’m currently learning node.js, php and postgresql
 
 <!---
 dvamuch/dvamuch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
